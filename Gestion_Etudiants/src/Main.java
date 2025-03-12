@@ -13,6 +13,4 @@ public class Main {
         }
     }
     // Merge  de  la  branche  nafissa
-    Accueil acc = new Accueil();
-
 }
