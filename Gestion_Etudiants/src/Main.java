@@ -12,5 +12,5 @@ public class Main {
             System.out.println("i = " + i);
         }
     }
-    // Merge  de  la  branche  nafissa
+    // Merger la  branche  nafissa
 }
