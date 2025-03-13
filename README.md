@@ -2,9 +2,11 @@
 Application  pour gérer les étudiants
 
 
-**git innit:** <br>
+<h2>git innit:</h2> <br>
 Initialisation d'un dépôt git dans un projet.
-**git add**
+
+#### **git add**
+
 Selection d'un, plusieur ou tous les fichiers sous le dépôt pour le commit.
 **git commit -m "message" :**
 Prendre une image instantannée du projet.
