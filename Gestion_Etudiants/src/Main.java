@@ -11,9 +11,22 @@ public class Main {
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("i = " + i);
         }
+
+
+
+
+
+
     }
+
+}
+
+
     Accueil acc = new Accueil();
     // Merge de la branche nafissa
 }
 //création de conflit avec OubeidAllah
+
+//resolution de conflis with marwen
+
 
