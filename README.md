@@ -45,3 +45,7 @@ Fusionner la branche descrit avec la branche ou on se trouve actuellement.
 ### git branch -d "nom de la branche":
 
 Pour supprimer la branche avec le nom donné.
+
+### git push origine --delete "nom de la branche" :
+
+Pour supprimer la branche distante.
