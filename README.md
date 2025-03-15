@@ -18,9 +18,11 @@ Prendre une image instantannée du projet.
 
 Ajout d'un dépôt distant.
 
+### git push - u origin:
+Pousser vers GitHub dans la branche par défaut.
 ### git push:
 
-Transfert du commit vers le dépôt distant.
+Pousser le commit vers le dépôt distant.
 
 ### git clone:
 
