@@ -4,4 +4,5 @@ public class Affichage {
         System.out.println("=== Étudiant : " + nom + " ===");
         System.out.println("afficher note");
     }
+    // ajout de commentaire main
 } 
