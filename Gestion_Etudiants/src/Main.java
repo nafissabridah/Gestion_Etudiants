@@ -13,20 +13,13 @@ public class Main {
         }
 
 
-
-
-
-
     }
-
-}
-
-
     Accueil acc = new Accueil();
     // Merge de la branche nafissa
 }
 //création de conflit avec OubeidAllah
 
-//resolution de conflis with marwen
 
+
+//resolution de conflis with marwen
 
