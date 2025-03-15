@@ -14,7 +14,7 @@ Selection d'un, plusieur ou tous les fichiers sous le dépôt pour le commit.
 
 Prendre une image instantannée du projet.
 
-### git remode add origin "lien":
+### git remote add origin "lien":
 
 Ajout d'un dépôt distant.
 
